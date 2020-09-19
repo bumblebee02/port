@@ -1,0 +1,35 @@
+body{
+	background-color: black;
+	background-image: url('image/sunrise.jpg');
+	color:white;
+	font-family: sans-serif;
+}
+h1,h2{
+	font-family: Georgia, serif;
+	text-align: center;
+}
+summary{
+	padding: 5%;
+}
+summary:hover{
+	color:black;
+}
+h3{
+	display: inline;
+	align-content: right;
+
+}
+
+details{
+	
+	width: 30%;
+	display:block;
+	/*float: left;*/
+	margin-left: 2%;
+}
+#xy{
+	text-align: left;
+}
+p{
+	text-align: left;
+}
